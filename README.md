@@ -10,4 +10,5 @@
 ### Usage of [cgpa-calculator](https://github.com/mdnrkn/aiub-hacks/blob/master/cgpa-calculator.cpp)  
 
 - Copy and paste the code into your IDE.
-- Hit Run and input your data.
+- Hit Run and input your data.\
+*Note : It will only calculate a single semester CGPA.
